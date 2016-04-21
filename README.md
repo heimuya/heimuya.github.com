@@ -1,2 +1,2 @@
-# heimuya.github.com
+# heimuya.github.io
 heimuya's blog
