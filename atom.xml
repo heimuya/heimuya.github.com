@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://www.kuwan.space/"/>
-  <updated>2016-06-30T15:45:06.000Z</updated>
+  <updated>2016-07-02T14:34:06.000Z</updated>
   <id>http://www.kuwan.space/</id>
   
   <author>
@@ -14,6 +14,27 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>金字塔原理</title>
+    <link href="http://www.kuwan.space/2016/07/02/%E9%87%91%E5%AD%97%E5%A1%94%E5%8E%9F%E7%90%86/"/>
+    <id>http://www.kuwan.space/2016/07/02/金字塔原理/</id>
+    <published>2016-07-02T14:21:24.000Z</published>
+    <updated>2016-07-02T14:34:06.000Z</updated>
+    
+    <content type="html">&lt;p&gt;最近学习和工作的过程中，经常发现自己的逻辑能力欠缺，无法很清晰的表达个人的观点，同时撰写的文档也是思路&lt;strong&gt;混乱&lt;/strong&gt;、&lt;strong&gt;观点不清晰&lt;/strong&gt;，无法达到要求的水准。通过知乎达人的推荐，明白目前主要就是缺失结构化思维的能力，不知如何去组织自己的论点，同时也没有形成明显的个人观点，导致思路不清晰，或者具备的观点也无法有效的表达出来。&lt;br&gt;&lt;strong&gt;结构化思维&lt;/strong&gt;有助于改善这一问题，但如何才能具备此项思维能力呢？&lt;br&gt;《&lt;strong&gt;&lt;em&gt;金字塔原理&lt;/em&gt;&lt;/strong&gt;》一书为麦肯锡咨询公司奉为经典的书籍之一，书中明确了何为结构化思维，如何去培养结构化思维的能力。作者&lt;em&gt;芭芭拉 名托&lt;/em&gt;在书中详尽的从&lt;strong&gt;思路整理&lt;/strong&gt;、&lt;strong&gt;序言撰写&lt;/strong&gt;、&lt;strong&gt;案例分析&lt;/strong&gt;、&lt;strong&gt;实战训练&lt;/strong&gt;等方面进行了说明。&lt;br&gt;近期我将仔细研究此书，并在此记录读书心得，同时也将学到的思维方案用于实战中。&lt;/p&gt;
+</content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;最近学习和工作的过程中，经常发现自己的逻辑能力欠缺，无法很清晰的表达个人的观点，同时撰写的文档也是思路&lt;strong&gt;混乱&lt;/strong&gt;、&lt;strong&gt;观点不清晰&lt;/strong&gt;，无法达到要求的水准。通过知乎达人的推荐，明白目前主要就是缺失结构化思维的能力，不知如何
+    
+    </summary>
+    
+    
+      <category term="结构化思维" scheme="http://www.kuwan.space/tags/%E7%BB%93%E6%9E%84%E5%8C%96%E6%80%9D%E7%BB%B4/"/>
+    
+  </entry>
   
   <entry>
     <title>react-native-ignite安装</title>
